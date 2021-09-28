@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ## Javid Salimov
 ### Front End & MERN Developer
-![React](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv) ![React](https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif)
-![React](https://i.ytimg.com/vi/ly3m6mv5qvg/maxresdefault.jpg)
+<!-- ![React](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv) ![React](https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif)
+![React](https://i.ytimg.com/vi/ly3m6mv5qvg/maxresdefault.jpg) -->
 ![React](https://media4.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=790b761158a15b6f5b12bec7ec01b7f191851dc0e1bf91fa&rid=giphy.gif&ct=g)  ![React](https://media4.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=790b761158a15b6f5b12bec7ec01b7f191851dc0e1bf91fa&rid=giphy.gif&ct=g)
 
