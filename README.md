@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **JavidSelimov12345/JavidSelimov12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Javid Salimov
-## Front End Developer & MERN Developer
+## Javid Salimov
+### Front End & MERN Developer
 ![React](https://i.ytimg.com/vi/ly3m6mv5qvg/maxresdefault.jpg)
