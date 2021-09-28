@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 ## Javid Salimov
 ### Front End & MERN Developer
-
+![React](https://i.ytimg.com/vi/ly3m6mv5qvg/maxresdefault.jpg) 
 ![React](https://media4.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=790b761158a15b6f5b12bec7ec01b7f191851dc0e1bf91fa&rid=giphy.gif&ct=g)  ![React](https://media4.giphy.com/media/zXmbOaTpbY6mA/giphy.gif?cid=790b761158a15b6f5b12bec7ec01b7f191851dc0e1bf91fa&rid=giphy.gif&ct=g)
 
