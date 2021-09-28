@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Javid Salimov
-## Front End Developer
+## Front End Developer & MERN Developer
 ![React](https://i.ytimg.com/vi/ly3m6mv5qvg/maxresdefault.jpg)
