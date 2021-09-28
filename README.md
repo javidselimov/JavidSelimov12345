@@ -4,6 +4,7 @@
 **JavidSelimov12345/JavidSelimov12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://i.ytimg.com/vi/ly3m6mv5qvg/maxresdefault.jpg
 https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv
+https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ## Javid Salimov
 ### Front End & MERN Developer
-![React](https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif)
+![React](https://i.pinimg.com/originals/0b/b5/96/0bb5963f254c3c4122fa81df7cc4cea3.gif)
