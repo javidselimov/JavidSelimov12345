@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#Javid Salimov
-##Front End Developer
+# Javid Salimov
+## Front End Developer
 ![React](https://i.ytimg.com/vi/ly3m6mv5qvg/maxresdefault.jpg)
