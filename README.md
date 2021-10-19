@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JavidSelimov12345&show_icons=true&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=do-Va&layout=compact&theme=nord)](https://github.com/JavidSelimov12345/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavidSelimov12345&layout=compact&theme=nord)](https://github.com/JavidSelimov12345/github-readme-stats)
 
 
