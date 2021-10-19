@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JavidSelimov12345&show_icons=true&theme=github_dark&title_color=#dadadad&card_width=200)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavidSelimov12345&layout=compact&theme=nord)](https://github.com/JavidSelimov12345/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=javid)](https://github.com/JavidSelimov12345/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Salimov)](https://github.com/JavidSelimov12345/github-readme-stats)
 
 
 
