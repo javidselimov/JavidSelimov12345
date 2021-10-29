@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavidSelimov12345&layout=compact&theme=nord)](https://github.com/JavidSelimov12345/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Salimov)](https://github.com/JavidSelimov12345/github-readme-stats)
+![Wakatime](https://wakatime.com/share/@Salimov/387c117f-9849-4670-83d4-e4f2988e92bc.png)
 
-<figure><embed src="https://wakatime.com/share/@Salimov/7371f4c6-097e-4dd2-a7c1-e4414eb104e6.svg"></embed></figure>
 
 
 
