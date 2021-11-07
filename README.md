@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Javid Salimov
-### Front End & MERN Developer
 - [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
 ![React](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv) 
+## Javid Salimov
+### Front End & MERN Developer
+
 - 🌱 Favorite programming languages :  JavaScript   Python  
 - 🌱 Favorite tools  :  React 
 - 💬 On linkedin https://www.linkedin.com/in/javidsalim/
