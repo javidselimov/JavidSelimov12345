@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ## Javid Salimov
 ### Front End & MERN Developer
 - [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
+- ![](https://komarev.com/ghpvc/?username=JavidSelimov12345)
+
 
 - 🌱 Favorite programming languages :  JavaScript   Python  
 - 🌱 Favorite tools  :  React Django
