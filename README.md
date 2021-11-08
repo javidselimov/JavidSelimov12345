@@ -37,10 +37,6 @@ Here are some ideas to get you started:
 
 
 
- 
-    
-
-
 - 🌱 Favorite programming languages :  JavaScript   Python  
 - 🌱 Favorite tools  :  React Django
 
