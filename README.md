@@ -31,10 +31,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
     
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-7719AA?style=flat&logo=jQuery&logoColor=white"/></a>
-    <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"/></a>
+    
 </p>
 
 
