@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
 </p>
 
-### 🧰 Frameworks and Libraries
+###Frameworks and Libraries
 
 <p>
  
@@ -41,6 +41,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-7719AA?style=flat&logo=jQuery&logoColor=white"/></a>
     <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"/></a>
 </p>
+
 - 🌱 Favorite programming languages :  JavaScript   Python  
 - 🌱 Favorite tools  :  React Django
 
