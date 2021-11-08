@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ![](https://komarev.com/ghpvc/?username=JavidSelimov12345)
 
 <p>
-    <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?style=flat&logo=cs2&logoColor=white"></a>
+    
     <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=yellow"></a>
