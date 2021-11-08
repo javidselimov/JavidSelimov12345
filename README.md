@@ -22,7 +22,25 @@ Here are some ideas to get you started:
 - [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
 - ![](https://komarev.com/ghpvc/?username=JavidSelimov12345)
 
+<p>
+    <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?style=flat&logo=cs2&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=Python&logoColor=yellow"></a>
+    <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat&logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Aa-kozhanov+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white"></a>
+</p>
 
+### 🧰 Frameworks and Libraries
+
+<p>
+ 
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-7719AA?style=flat&logo=jQuery&logoColor=white"/></a>
+    <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white"/></a>
+</p>
 - 🌱 Favorite programming languages :  JavaScript   Python  
 - 🌱 Favorite tools  :  React Django
 
