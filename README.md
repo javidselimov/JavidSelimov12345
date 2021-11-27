@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ![](https://komarev.com/ghpvc/?username=JavidSelimov12345)
 
 - 🌱 Favorite programming languages :  JavaScript   Python  
-- 🌱 Favorite tools  :  React Django
+- 🌱 Favorite tools  :  React Django Node js
 
 
 - 💬 On linkedin https://www.linkedin.com/in/javidsalim/
