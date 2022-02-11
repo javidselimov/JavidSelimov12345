@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  - 💬 On medium https://medium.com/@cavidselimov.cs
 - ![React](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv) 
 
-[![javids's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Salimov)](https://github.com/JavidSelimov12345/github-readme-stats)
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JavidSelimov12345&show_icons=true&theme=github_dark&title_color=#dadadad&card_width=200)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavidSelimov12345&layout=compact&theme=nord)](https://github.com/JavidSelimov12345/github-readme-stats)
