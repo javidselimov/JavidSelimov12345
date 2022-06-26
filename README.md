@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ### Front End & MERN Developer
 - [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
 - ![](https://komarev.com/ghpvc/?username=JavidSelimov12345)
+- ![Wakatime](https://wakatime.com/share/@Z_Salimov/92617131-097a-4a0a-8fdc-2c5a796b9a57.svg)
 
 - 🌱 Favorite programming languages :  JavaScript   Python  
 - 🌱 Favorite tools  :  React Django Node js
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ![Wakatime](https://wakatime.com/share/@Z_Salimov/387c117f-9849-4670-83d4-e4f2988e92bc.png)
-![Wakatime](https://wakatime.com/share/@Z_Salimov/92617131-097a-4a0a-8fdc-2c5a796b9a57.svg)
+
 
 
 
