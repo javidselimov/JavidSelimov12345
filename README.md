@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-![Wakatime](https://wakatime.com/share/@Salimov/387c117f-9849-4670-83d4-e4f2988e92bc.png)
+![Wakatime](https://wakatime.com/share/@Z_Salimov/387c117f-9849-4670-83d4-e4f2988e92bc.png)
 
 
 
