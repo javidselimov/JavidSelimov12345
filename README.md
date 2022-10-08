@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 Favorite programming languages :  JavaScript   Python  
+- 🌱 Favorite tools  :  React Django Node js
+- 💬 On linkedin https://www.linkedin.com/in/javidsalim/
+ - 💬 On medium https://medium.com/@cavidselimov.cs
 -->
 
 ## Javid Salimov
@@ -22,13 +26,6 @@ Here are some ideas to get you started:
 - [![wakatime](https://wakatime.com/badge/user/d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16.svg)](https://wakatime.com/@d5de5aaf-24b1-4a23-8fd7-2b48a35fdd16)
 - ![](https://komarev.com/ghpvc/?username=JavidSelimov12345)
 - ![Wakatime](https://wakatime.com/share/@Z_Salimov/92617131-097a-4a0a-8fdc-2c5a796b9a57.svg)
-
-- 🌱 Favorite programming languages :  JavaScript   Python  
-- 🌱 Favorite tools  :  React Django Node js
-
-
-- 💬 On linkedin https://www.linkedin.com/in/javidsalim/
- - 💬 On medium https://medium.com/@cavidselimov.cs
 - ![React](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv) 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=JavidSelimov12345&show_icons=true&theme=github_dark&title_color=#dadadad&card_width=200)
